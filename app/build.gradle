@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "edu.upb.lp.genericgame"
+        applicationId "edu.upb.lp.BugWorld"
         minSdkVersion 11
         targetSdkVersion 21
     }
