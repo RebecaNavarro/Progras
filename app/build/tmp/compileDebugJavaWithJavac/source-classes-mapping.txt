@@ -1,0 +1,79 @@
+edu/upb/lp/progra/BugWorld/Cell.java
+ edu.upb.lp.progra.BugWorld.Cell
+edu/upb/lp/progra/upbPolio/NumeroDePantallaIncorrectoException.java
+ edu.upb.lp.progra.upbPolio.NumeroDePantallaIncorrectoException
+edu/upb/lp/progra/upbPolio/CasCafe.java
+ edu.upb.lp.progra.upbPolio.CasCafe
+edu/upb/lp/progra/quidditch/QuidditchGame.java
+ edu.upb.lp.progra.quidditch.QuidditchGame
+edu/upb/lp/progra/upbPolio/CasCastigo.java
+ edu.upb.lp.progra.upbPolio.CasCastigo
+edu/upb/lp/progra/elMejorJuegoSuperMegaDivertido/ElMejorJuegoSuperMegaDivertidoUI.java
+ edu.upb.lp.progra.elMejorJuegoSuperMegaDivertido.ElMejorJuegoSuperMegaDivertidoUI
+edu/upb/lp/progra/quidditch/QuidditchUI.java
+ edu.upb.lp.progra.quidditch.QuidditchUI
+edu/upb/lp/progra/BugWorld/BugWorldUI.java
+ edu.upb.lp.progra.BugWorld.BugWorldUI
+edu/upb/lp/progra/quidditch/Quaffle.java
+ edu.upb.lp.progra.quidditch.Quaffle
+edu/upb/lp/progra/superMegaJuego/SuperMegaJuegoGame.java
+ edu.upb.lp.progra.superMegaJuego.SuperMegaJuegoGame
+edu/upb/lp/androidInternalFiles/MyTextView.java
+ edu.upb.lp.androidInternalFiles.MyTextView
+edu/upb/lp/progra/superMegaJuego/SuperMegaJuegoUI.java
+ edu.upb.lp.progra.superMegaJuego.SuperMegaJuegoUI
+edu/upb/lp/progra/adapterFiles/UI.java
+ edu.upb.lp.progra.adapterFiles.UI
+edu/upb/lp/progra/upbPolio/ElementoConEfecto.java
+ edu.upb.lp.progra.upbPolio.ElementoConEfecto
+edu/upb/lp/progra/BugWorld/Bug.java
+ edu.upb.lp.progra.BugWorld.Bug
+edu/upb/lp/progra/upbPolio/UpbPolioGame.java
+ edu.upb.lp.progra.upbPolio.UpbPolioGame
+edu/upb/lp/progra/upbPolio/Carta.java
+ edu.upb.lp.progra.upbPolio.Carta
+edu/upb/lp/progra/adapterFiles/GameAdapter.java
+ edu.upb.lp.progra.adapterFiles.GameAdapter
+edu/upb/lp/progra/quidditch/BajadorDeQuaffle.java
+ edu.upb.lp.progra.quidditch.BajadorDeQuaffle
+edu/upb/lp/progra/quidditch/BajadorDeBludger.java
+ edu.upb.lp.progra.quidditch.BajadorDeBludger
+edu/upb/lp/progra/upbPolio/CasBlanco.java
+ edu.upb.lp.progra.upbPolio.CasBlanco
+edu/upb/lp/androidInternalFiles/AndroidGameActivity.java
+ edu.upb.lp.androidInternalFiles.AndroidGameActivity
+ edu.upb.lp.androidInternalFiles.AndroidGameActivity$1
+edu/upb/lp/genericgame/BuildConfig.java
+ edu.upb.lp.genericgame.BuildConfig
+edu/upb/lp/progra/upbPolio/CasCarcel.java
+ edu.upb.lp.progra.upbPolio.CasCarcel
+edu/upb/lp/progra/adapterFiles/TextListener.java
+ edu.upb.lp.progra.adapterFiles.TextListener
+edu/upb/lp/progra/adapterFiles/AndroidGameGUI.java
+ edu.upb.lp.progra.adapterFiles.AndroidGameGUI
+edu/upb/lp/progra/quidditch/Bludger.java
+ edu.upb.lp.progra.quidditch.Bludger
+edu/upb/lp/progra/upbPolio/CasBus.java
+ edu.upb.lp.progra.upbPolio.CasBus
+edu/upb/lp/progra/quidditch/Snitch.java
+ edu.upb.lp.progra.quidditch.Snitch
+edu/upb/lp/progra/upbPolio/CasFortuna.java
+ edu.upb.lp.progra.upbPolio.CasFortuna
+edu/upb/lp/progra/upbPolio/CasMateria.java
+ edu.upb.lp.progra.upbPolio.CasMateria
+edu/upb/lp/progra/quidditch/BajadorDeSnitch.java
+ edu.upb.lp.progra.quidditch.BajadorDeSnitch
+edu/upb/lp/progra/upbPolio/Personaje.java
+ edu.upb.lp.progra.upbPolio.Personaje
+edu/upb/lp/progra/BugWorld/ScoreManager.java
+ edu.upb.lp.progra.BugWorld.ScoreManager
+edu/upb/lp/progra/quidditch/HarryPotter.java
+ edu.upb.lp.progra.quidditch.HarryPotter
+edu/upb/lp/progra/quidditch/IniciadorDeSnitch.java
+ edu.upb.lp.progra.quidditch.IniciadorDeSnitch
+edu/upb/lp/progra/upbPolio/UpbPolioUI.java
+ edu.upb.lp.progra.upbPolio.UpbPolioUI
+edu/upb/lp/progra/BugWorld/BugWorld.java
+ edu.upb.lp.progra.BugWorld.BugWorld
+edu/upb/lp/progra/upbPolio/CasRetro.java
+ edu.upb.lp.progra.upbPolio.CasRetro
